@@ -48,7 +48,7 @@
     "gh-pages": "^1.1.0",
     "nwb": "0.25.x",
     "react": ">=16.x <=18.x",
-    "react-dom": ">=16.x <=18.x"
+    "react-dom": ">=16.x <=18.x",
     "style-loader": "^0.19.1"
   },
   "author": {
